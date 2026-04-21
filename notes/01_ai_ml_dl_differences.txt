@@ -1,0 +1,22 @@
+THE DIFFERENCE BETWEEEN AI, ML, DL, GenAI.
+
+Hirarchy = AI => ML => DL => GenAI.
+NOTE: 
+
+Artificial Intelligence (AI):
+
+1: AI is the broad concept of making machines think and act like humans. It involves creating systems that can learn, reason, and solve problems like humans. Examples include chess bots, self-driving cars, and virtual assistants such as Siri and Alexa.
+
+AI itself does not always learn from data. Some AI systems simply follow rule-based instructions.
+
+AI is the broader field, while other technologies (such as Machine Learning and Deep Learning) are subsets of it.
+
+2: MACHINE LEARNING: Subset of AI, it's how we makes machines/systems learn/solve task automatically from data/patterns instead of explicitly hardcoding every rule. i.e Spam detection, Credit Card Fraud Detection , Recommendation System.
+
+The machine learn/teaches itself from the data provided.
+
+3: DEEP LEARNING: Subset of ML that uses artificial neural network to learn from large amount of data - inspired by the how the human brain works. i.e Image detection, Voice assistance, Autonomous driving vision systems. 
+
+DL needs a lot of data, computing power & GPU to train it.
+
+4: GEN AI: Subset of DL that focuses of creating new content (audio, video, code) by learning from existing data/examples. i.e ChatGPT (Text Generation), Dall E (Image Generation), GitHub Copilot (Coding Assistant)

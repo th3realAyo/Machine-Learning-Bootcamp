@@ -1,0 +1,76 @@
+TYPES OF MACHINE LEARNING (ALGORITHMS):
+- SUPERVISED LEARNING
+- UNSUPERVISED LEARNING
+
+SUPERVISED LEARNING: These ML algorithms are trained on labeled datasets - meaning each input has a known output. i.e Email spam filters, House price prediction, Image recognition.
+
+TYPES OF SUPERVISED LEARNING:
+- Classification: Used when the output is a category or label. Male/Female, Spam/Not Spam, Accept/Reject
+- Regression: Used when the output is a quantity or continuous numerical value. i.e Temperature, House Price, Height, Salary.
+
+Classification: Predict category/groups
+Regression: Predict number
+
+Classification Algorithm:
+1) Logistic Regression
+2) Decision Tree: Divides output into different branches of decision
+3) Random Forest: Combines multiple/numeroud decision trees
+4) SVM - Support Vector Machine
+5) KNN - K Nearest Neigbour: Based on nearest datapoins
+6) Naive Bayes: Based on probability
+
+Regression Algorithm:
+1) Linear Regression
+2) Decision Tree RegX
+3) Random Forest RegX
+4) SVM - Support Vector Machine Regression
+5) Polynomial RegX
+6) Ridge & Lasso RegX
+
+
+APPLICATION:
+1) Classification:
+ - Email Spam Detection
+ - Medical Diagnosis
+ - Image Recognition
+ - Loan Approval
+
+2) Regression
+ - House Price Prediction
+ - Stock Price
+ - Sales Forcasting
+ - Energy Consumption Forcasting
+
+
+
+UNSUPERVISED LEARNING:
+Unsupervised leaening deals with unlabelled data. The system tries to identitfy hidden pastterns in the data without knowing the correct answer. i.e Customer Segmentation(Group customers based on similar purchase pattern), Market Basket Analysis (Product frequenetly bought together), Gene Clustering in Biology.
+
+TYPES OF UNSUPERVISED LEARNING:
+Clustering: Grouping similar data points based on similar features without any labels, i.e Customer Segmentation
+
+Association: Discovering intresting relationships or rules among variables. i.e People who buy bread often buy butter. 
+
+Clustering Models:
+K-Means Clustering: Divides data into K number of groups based on similarities
+Hierarchy: Creates a tree like structure to show all cluster merge
+DBSCN(Density Based Spatial Clustering): Groups datapoint closer and marks outliers as noise
+Gaussian Mixtyre Model (GMM): 
+
+
+Association:
+Apriori Algorthm: Frequent item combination (bread and butter)
+ECLAT:
+FP GROWTH:
+
+APPLICATION:
+1) Clustering:
+ - Customer Segementation
+ - Document clustering
+ - Social network analysis
+ - Anomaly detection
+
+2) Regression
+ - Market Basket Analysis
+ - Recommender Systems
+ - Retail Analytics
