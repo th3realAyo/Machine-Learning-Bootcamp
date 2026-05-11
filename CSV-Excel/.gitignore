@@ -1,0 +1,5 @@
+﻿# Large datasets - too big for GitHub (>100MB limit)
+**/Eartquakes-1990-2023.csv
+
+# Nested duplicate dataset folders (accidental copies)
+Datasets/Datasets/
