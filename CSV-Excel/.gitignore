@@ -3,3 +3,5 @@
 
 # Nested duplicate dataset folders (accidental copies)
 Datasets/Datasets/
+
+**.env
